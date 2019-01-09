@@ -1,0 +1,100 @@
+
+.header {
+    background: #128d73;
+    padding: 9px;
+    color: #fff;
+
+
+}
+.allads a {
+    color: #fff;
+
+}
+a:hover {
+    color: #d4d1d1;
+    text-decoration: none;
+}
+.language button1{
+    border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    background-color: #149576;
+
+
+
+}
+.language button2{
+    border-top-right-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    border-right-width: 1px; 
+    background-color: #149576; 
+
+
+}
+.language button1:hover{
+    background: #149576;
+}
+.language button2:hover{
+    background: #149576;
+}
+.postad button{
+
+    color: black;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background: #ffd259
+
+}
+.icon img{
+    width: 35px;
+    height: 40px;
+    text-align: right;
+
+
+}
+.icon{
+    text-align: right;
+}
+.login a{
+    margin-top: 15px;
+    text-align: right;
+    color: #fff;
+}
+login:hover {
+    color: #d4d1d1;
+    text-decoration: none;
+}
+.login{
+    margin-top: 10px;
+}
+.imgikman img{
+    margin-top: 6px;
+}
+.allads {
+    margin-top: 7px;
+}
+.login i{
+    margin-right: 10px;
+}
+.middle{
+    height: 300px;
+}
+.footer{
+    padding-top:  24px;
+    padding-bottom: 24px;
+    border-top: 4px solid #009877;
+    
+    
+}
+.line{
+    padding-top:  10px;
+    padding-bottom: 22px;
+    border-top: 1px solid; 
+    margin-top: 20px;
+}
+.ikmn{
+    text-align: right;
+}
+div.font {
+  font-size: 13px;
+}
+
